@@ -35,7 +35,7 @@ O aplicativo foi publicado na **Google Play Store** e o pacote completo (App + C
 *   **Link da Play Store:** [Clique aqui para acessar o App na Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_cristiano_cta_pr.MasterAPP_ESP32_S)
 
 ## 📸 Galeria do Projeto
-*[Aqui você vai colocar as imagens. Eu te ensino no próximo passo!](https://github.com/cristianocezarin/smart-home-ccp-automation/blob/main/WhatsApp%20Image%202026-09-25%20at%2020.35.30.jpeg)*
+*[Interface do App CCP Automation](https://github.com/cristianocezarin/smart-home-ccp-automation/blob/main/WhatsApp%20Image%202026-09-25%20at%2020.35.30.jpeg)*
 
 ---
 *Desenvolvido por Cristiano Cezarin (CCP Automation)*
