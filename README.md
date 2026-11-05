@@ -37,5 +37,9 @@ O aplicativo foi publicado na **Google Play Store** e o pacote completo (App + C
 ## 📸 Galeria do Projeto
 *[Interface do App CCP Automation](https://github.com/cristianocezarin/smart-home-ccp-automation/blob/main/WhatsApp%20Image%202026-09-25%20at%2020.35.30.jpeg)*
 
+### 🎥 Vídeo de Demonstração
+[![Assista ao vídeo do sistema funcionando](https://img.youtube.com/vi/wjYDkZ-SsI0/0.jpg)](https://youtube.com/shorts/wjYDkZ-SsI0?si=89hJTj7HKS-c9i2h)
+
+
 ---
 *Desenvolvido por Cristiano Cezarin (CCP Automation)*
