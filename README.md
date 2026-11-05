@@ -24,7 +24,7 @@ A maioria das soluções de automação residencial no mercado depende de servid
 *   **Comunicação:** Protocolo HTTP (Rede Local / Wi-Fi).
 
 ## 🚀 Funcionalidades Principais
-- [x] Controle individual de até 14 dispositivos (On/Off).
+- [x] Controle individual de até 12 dispositivos (On/Off).
 - [x] Personalização visual de ícones (lâmpadas, portões, câmeras, etc.).
 - [x] Programação de Timers (Hora de ligar/desligar e dias da semana).
 - [x] Configuração dinâmica de IP para conexão local.
