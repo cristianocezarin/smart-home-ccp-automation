@@ -50,6 +50,8 @@ A maioria das soluções de automação residencial no mercado depende de servid
 - [x] Acionamento de lâmpadas, portões, ventiladores e câmeras.
 - [x] Pacote comercial incluindo manual de instalação e diagramas elétricos.
 
+*(Nota: A quantidade de dispositivos controlados depende da placa, do firmware e da configuração elétrica utilizada. A versão publicada do aplicativo informa suporte a até 11 portas digitais).*
+
 ## 📱 Publicação Comercial
 O aplicativo foi publicado na **Google Play Store** e o pacote completo (App + Código Fonte + Tutorial de Montagem do Circuito) é vendido para entusiastas de automação.
 *   **Link da Play Store:** [Clique aqui para acessar o App](https://play.google.com/store/apps/details?id=appinventor.ai_cristiano_cta_pr.MasterAPP_ESP32_S)
@@ -60,8 +62,8 @@ O aplicativo foi publicado na **Google Play Store** e o pacote completo (App + C
 ## 📸 Galeria do Projeto
 ![Interface do App CCP Automation](https://github.com/cristianocezarin/smart-home-ccp-automation/blob/main/WhatsApp%20Image%202026-09-25%20at%2020.35.30.jpeg)
 
-## 🔒 Código-Fonte e Materiais
-Como este é um produto comercial, o código-fonte integral, os materiais comerciais e os detalhes de implementação podem não estar disponíveis publicamente. **Este repositório funciona como uma apresentação técnica e documentação do produto.**
+## 🔒 Código-Fonte e Materiais Proprietários
+O CCP Automation foi publicado e comercializado como um produto completo. Por esse motivo, o código-fonte integral, os materiais comerciais e alguns detalhes de implementação podem não estar disponíveis publicamente neste repositório. **Este repositório funciona como uma apresentação técnica e documentação do produto.**
 
 ## 🎓 Principais Aprendizados
 Este projeto envolveu práticas essenciais de engenharia:
