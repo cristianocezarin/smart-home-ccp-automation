@@ -43,12 +43,14 @@ A maioria das soluções de automação residencial no mercado depende de servid
 | **Saídas** | Portas digitais e Módulos de Relé |
 
 ## 🚀 Funcionalidades Principais
-- [x] Controle individual de até 11 portas digitais (On/Off).
+- [x] Controle individual de até 12 portas digitais (On/Off).
 - [x] Personalização visual de ícones e nomes dos dispositivos.
 - [x] Programação de Timers (Hora de ligar/desligar e dias da semana).
 - [x] Configuração dinâmica de IP para conexão local.
 - [x] Acionamento de lâmpadas, portões, ventiladores e câmeras.
 - [x] Pacote comercial incluindo manual de instalação e diagramas elétricos.
+- [x]  Controle local por meio da rede Wi-Fi.
+- [x]  Compatibilidade com placas ESP32 e ESP8266.
 
 *(Nota: A quantidade de dispositivos controlados depende da placa, do firmware e da configuração elétrica utilizada. A versão publicada do aplicativo informa suporte a até 11 portas digitais).*
 
