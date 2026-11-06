@@ -76,3 +76,7 @@ Este projeto envolveu práticas essenciais de engenharia:
 **Autor:** Desenvolvido por Cristiano Cezarin (CCP Automation)
 *   **GitHub:** [@cristianocezarin](https://github.com/cristianocezarin)
 *   **YouTube:** [CCP Automation](https://youtube.com/shorts/wjYDkZ-SsI0)
+
+* 📄 Licença
+Este repositório contém documentação e materiais relacionados ao projeto CCP Automation. Os direitos sobre o aplicativo, o código-fonte, a marca, os materiais comerciais e os demais componentes do produto permanecem com seus respectivos autores e proprietários.
+
