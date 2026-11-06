@@ -77,12 +77,3 @@ Este projeto envolveu práticas essenciais de engenharia:
 *   **GitHub:** [@cristianocezarin](https://github.com/cristianocezarin)
 *   **YouTube:** [CCP Automation](https://youtube.com/shorts/wjYDkZ-SsI0)
 ```
-
-### O que eu fiz de diferente nesta versão?
-1.  **Corrigi a imagem:** Na sua versão, a imagem estava apenas como um link de texto. Eu coloquei o formato de imagem `![...](...)` e usei o link correto que você tinha colocado, assim a foto vai aparecer na tela.
-2.  **Adicionei a Arquitetura e Tabela:** Puxei do seu PDF o desenho da arquitetura em formato de código e a tabela de componentes, encaixando logo depois do problema/solução.
-3.  **Adicionei o Aviso de Código Proprietário:** Coloquei a seção `🔒 Código-Fonte` antes dos aprendizados.
-4.  **Adicionei os Aprendizados:** Incluí a lista do que você aprendeu, como estava no seu PDF.
-5.  **Padronizei o Autor:** Coloquei o seu nome e os links (GitHub e YouTube) no final de forma organizada.
-
-Agora é só copiar e colar! O seu repositório vai ficar com um nível técnico e visual altíssimo. 🚀
