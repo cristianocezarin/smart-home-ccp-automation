@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Publicado%20na%20Play%20Store-success)
 ![Plataforma](https://img.shields.io/badge/Plataforma-Android%20%7C%20ESP32%20%7C%20ESP8266-blue)
 ![Linguagem](https://img.shields.io/badge/Linguagem-C%2B%2B%20%7C%20MIT%20App%20Inventor-orange)
+![Comunicação](https://img.shields.io/badge/Comunicação-HTTP%20%2F%20WiFi-orange)
 
 ## 📌 Visão Geral
 O **CCP Automation** é um ecossistema completo de automação residencial (Hardware + Software + Aplicativo Mobile) publicado comercialmente na Google Play Store. 
